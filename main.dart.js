@@ -82716,7 +82716,7 @@ this.h7()}}
 A.IT.prototype={
 D(a){return A.u1(new A.a1m(),$.fs().c,t.kQ)}}
 A.a1m.prototype={
-$3(a,b,c){return J.eg($.fs().c.a)?B.Bb:A.a4e(new A.a1k(b),J.bw(b),B.fi,new A.a1l())},
+$3(a,b,c){return J.eg($.fs().c.a)?B.Ba:A.a4e(new A.a1k(b),J.bw(b),B.fi,new A.a1l())},
 $S:172}
 A.a1k.prototype={
 $2(a,b){var s=null,r=this.a
@@ -82731,7 +82731,7 @@ $S:59}
 A.JA.prototype={
 D(a){return A.u1(new A.a3e(),$.fs().b,t.kQ)}}
 A.a3e.prototype={
-$3(a,b,c){return J.eg($.fs().b.a)?B.Ba:A.a4e(new A.a3c(b),J.bw(b),B.fi,new A.a3d())},
+$3(a,b,c){return J.eg($.fs().b.a)?B.B9:A.a4e(new A.a3c(b),J.bw(b),B.fi,new A.a3d())},
 $S:172}
 A.a3c.prototype={
 $2(a,b){var s=null,r=this.a
@@ -82906,10 +82906,10 @@ k=A.cN(k,o,o,o,A.eM(o,o,n.d==null?B.t3:B.ei,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o
 s=t.p
 k=A.f8(A.a([new A.bz(B.D9,new A.UU(new A.acJ(n,a),o,o,o,o,B.l,o,!1,o,new A.UV(k,B.DT,o),o),o)],s),B.D,B.F,B.N)
 r=t.pC
-r=A.f8(A.a([A.f8(A.a([A.aoA(n.e,new A.acK(n),B.c6,r),B.QJ],s),B.D,B.F,B.N),A.f8(A.a([A.aoA(n.e,new A.acL(n),B.kH,r),B.QD],s),B.D,B.F,B.N)],s),B.D,B.eh,B.N)
+r=A.f8(A.a([A.f8(A.a([A.aoA(n.e,new A.acK(n),B.c6,r),B.QJ],s),B.D,B.F,B.N),A.f8(A.a([A.aoA(n.e,new A.acL(n),B.kH,r),B.QE],s),B.D,B.F,B.N)],s),B.D,B.eh,B.N)
 q=n.f
 p=J.ny((n.e===B.c6?$.fs().b:$.fs().c).a,new A.acM(n),t.b7).dr(0)
-return A.dT(A.a([B.Ml,B.B9,B.Mp,A.ao2(o,A.dT(A.a([new A.bz(B.iw,m,o),B.dm,new A.bz(B.iw,l,o),B.dm,k,B.dm,new A.bz(B.W,r,o),B.dm,A.dT(A.a([new A.bz(B.Db,new A.qX(p,q,B.QI,B.Qx,new A.acN(n),o,t.Af),o),B.Mo,A.cN(J.eg(n.z)&&J.eg(n.Q)?"You need to add some categories":"",o,o,o,B.Ou,o,o)],s),B.D,B.F,B.N)],s),B.D,B.F,B.N),n.y),B.Mk,new A.bz(B.iw,A.f8(A.a([A.Nt(!1,B.Qy,B.l,o,o,o,o,o,new A.acO(a),o,o),B.Mi,A.as_(B.QL,new A.acP(n,a))],s),B.D,B.rW,B.N),o),B.dm],s),B.D,B.eh,B.N)},
+return A.dT(A.a([B.Ml,B.Bc,B.Mp,A.ao2(o,A.dT(A.a([new A.bz(B.iw,m,o),B.dm,new A.bz(B.iw,l,o),B.dm,k,B.dm,new A.bz(B.W,r,o),B.dm,A.dT(A.a([new A.bz(B.Db,new A.qX(p,q,B.QI,B.Qx,new A.acN(n),o,t.Af),o),B.Mo,A.cN(J.eg(n.z)&&J.eg(n.Q)?"You need to add some categories":"",o,o,o,B.Ou,o,o)],s),B.D,B.F,B.N)],s),B.D,B.F,B.N),n.y),B.Mk,new A.bz(B.iw,A.f8(A.a([A.Nt(!1,B.Qy,B.l,o,o,o,o,o,new A.acO(a),o,o),B.Mi,A.as_(B.QL,new A.acP(n,a))],s),B.D,B.rW,B.N),o),B.dm],s),B.D,B.eh,B.N)},
 $S:480}
 A.acH.prototype={
 $1(a){if(a.length===0)return"This field is required"
@@ -83014,7 +83014,7 @@ s.ej()
 $.fs().ej()
 return A.zw(!0,A.u1(new A.a8K(this),s.a,t.Hj),B.W,!0)}}
 A.a8K.prototype={
-$3(a,b,c){return J.eg($.vu().a.a)?B.Bc:A.a4e(new A.a8I(this.a,b),J.bw(b),B.fi,new A.a8J())},
+$3(a,b,c){return J.eg($.vu().a.a)?B.Bb:A.a4e(new A.a8I(this.a,b),J.bw(b),B.fi,new A.a8J())},
 $S:486}
 A.a8I.prototype={
 $2(a,b){var s=null,r=J.bj(this.b,b),q=r.f,p=r.c,o=r.e,n=r.d,m=r.a,l=A.a([new A.MK(new A.a8H(r),B.mx,s)],t.p),k=A.vZ(20),j=A.aBq().ye(n).split(" "),i=A.cN(A.j(j[0])+" \n "+A.j(j[1]),s,s,s,B.ON,s,s),h=A.cN(q,s,s,s,s,s,s),g=A.cN(B.d.k(p),s,s,s,s,s,s)
@@ -83149,7 +83149,7 @@ $1(a){return B.yT},
 $S:490}
 A.amJ.prototype={
 $1(a){var s=null,r=this.a,q=this.b,p=t.p
-return new A.tr(B.QB,A.a([new A.bz(B.bS,A.dT(A.a([A.ao2(s,A.ab7(!1,q,B.E0,s,s,s,new A.amH()),r),B.dm,B.KN,B.jT,A.as_(B.QH,new A.amI(r,q,a))],p),B.D,B.F,B.N),s)],p),s)},
+return new A.tr(B.QC,A.a([new A.bz(B.bS,A.dT(A.a([A.ao2(s,A.ab7(!1,q,B.E0,s,s,s,new A.amH()),r),B.dm,B.KN,B.jT,A.as_(B.QH,new A.amI(r,q,a))],p),B.D,B.F,B.N),s)],p),s)},
 $S:491}
 A.amH.prototype={
 $1(a){if(a.length===0)return"This field is required"
@@ -86412,13 +86412,8 @@ B.B2=new A.akp()
 B.li=new A.GL(0,"pixel")
 B.B3=new A.GL(1,"viewport")
 B.B7=new A.wh(null,null,null,null,null,null,null)
-B.QF=new A.dz(" Personal Money Manager",null,null,null,null,null,null,null,null)
-B.B8=new A.fW(B.S,null,null,B.QF,null)
-B.BF=new A.B(4289268055)
-B.mm=new A.hy(5)
-B.Nr=new A.t(!0,B.BF,null,null,null,null,24,B.mm,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.QG=new A.dz("Please fill the below informations",null,B.Nr,null,null,null,null,null,null)
-B.B9=new A.fW(B.S,null,null,B.QG,null)
+B.QG=new A.dz(" Personal Money Manager",null,null,null,null,null,null,null,null)
+B.B8=new A.fW(B.S,null,null,B.QG,null)
 B.eh=new A.mg(2,"center")
 B.N=new A.K4(1,"max")
 B.D=new A.nU(2,"center")
@@ -86433,15 +86428,20 @@ B.QA=new A.dz("\nclick the add button",null,B.k_,null,null,null,null,null,null)
 B.th=new A.mj(0.5,B.QA,null)
 B.EW=A.a(s([B.JE,B.th]),t.p)
 B.Ca=new A.lO(B.ad,B.eh,B.N,B.D,null,B.bi,null,B.EW,null)
-B.Ba=new A.fW(B.S,null,null,B.Ca,null)
-B.QE=new A.dz("Currently no items in the expense list...",null,B.k2,null,null,null,null,null,null)
-B.JF=new A.mj(0.8,B.QE,null)
+B.B9=new A.fW(B.S,null,null,B.Ca,null)
+B.QF=new A.dz("Currently no items in the expense list...",null,B.k2,null,null,null,null,null,null)
+B.JF=new A.mj(0.8,B.QF,null)
 B.Gi=A.a(s([B.JF,B.th]),t.p)
 B.Cb=new A.lO(B.ad,B.eh,B.N,B.D,null,B.bi,null,B.Gi,null)
-B.Bb=new A.fW(B.S,null,null,B.Cb,null)
+B.Ba=new A.fW(B.S,null,null,B.Cb,null)
 B.QM=new A.dz("Click add button to enter transactions.....",null,B.k2,null,null,null,null,null,null)
 B.JD=new A.mj(0.8,B.QM,null)
-B.Bc=new A.fW(B.S,null,null,B.JD,null)
+B.Bb=new A.fW(B.S,null,null,B.JD,null)
+B.BF=new A.B(4289268055)
+B.mm=new A.hy(5)
+B.Nr=new A.t(!0,B.BF,null,null,null,null,22,B.mm,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.QB=new A.dz("Please fill the fields",null,B.Nr,null,null,null,null,null,null)
+B.Bc=new A.fW(B.S,null,null,B.QB,null)
 B.Bd=new A.wi(null,null,null,null,null,null,null,null,null)
 B.Be=new A.wj(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.i0=new A.dF(0,B.o)
@@ -86976,8 +86976,8 @@ B.zI=new A.bk(0.2,B.B,B.lp,B.h,11)
 B.FF=A.a(s([B.zI]),t.V)
 B.FH=A.a(s([0,0,32754,11263,65534,34815,65534,18431]),t.t)
 B.QK=new A.dz("INCOMES",null,null,null,null,null,null,null,null)
-B.QC=new A.dz("EXPENSES",null,null,null,null,null,null,null,null)
-B.FI=A.a(s([B.QK,B.QC]),t.p)
+B.QD=new A.dz("EXPENSES",null,null,null,null,null,null,null,null)
+B.FI=A.a(s([B.QK,B.QD]),t.p)
 B.mZ=A.a(s([]),A.a6("v<aLM>"))
 B.FW=A.a(s([]),t.fJ)
 B.TL=A.a(s([]),t.ss)
@@ -88681,8 +88681,8 @@ B.Qw=new A.es(B.Pd,B.Qf,B.Q0,B.NU,B.PW,B.P7,B.Qj,B.Ok,B.OQ,B.PR,B.NN,B.Q1,B.PU,B
 B.yh=new A.NL(1,"longestLine")
 B.Qx=new A.dz("Currently no items in this list ",null,null,null,null,null,null,null,null)
 B.Qy=new A.dz("cancel",null,null,null,null,null,null,null,null)
-B.QB=new A.dz("Add categories",null,null,null,null,null,null,null,null)
-B.QD=new A.dz("Expense",null,null,null,null,null,null,null,null)
+B.QC=new A.dz("Add categories",null,null,null,null,null,null,null,null)
+B.QE=new A.dz("Expense",null,null,null,null,null,null,null,null)
 B.QH=new A.dz("Add",null,null,null,null,null,null,null,null)
 B.QI=new A.dz("select a item from the list",null,null,null,null,null,null,null,null)
 B.QJ=new A.dz("Income",null,null,null,null,null,null,null,null)
